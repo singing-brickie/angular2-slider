@@ -1,0 +1,24 @@
+{
+  "name": "angular2-slider",
+  "version": "1.0.0",
+  "description": "Angular2 slider component with no external dependencies. Mobile friendly!.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atecey/angular2-slider.git"
+  },
+  "keywords": [
+    "angular2",
+    "ng2",
+    "slider"
+  ],
+  "author": "Andrew Tecey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atecey/angular2-slider/issues"
+  },
+  "homepage": "https://github.com/atecey/angular2-slider#readme"
+}
