@@ -1,24 +1,20 @@
 {
   "compilerOptions": {
-    "removeComments": true,
-    "noImplicitAny": false,
+    "noImplicitAny": true,
     "module": "commonjs",
-    "target": "es5",
+    "target": "ES5",
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "declaration": true,
     "sourceMap": true,
-    "moduleResolution": "node",
-    "rootDir": "."
+    "declaration": true,
+    "outDir": "./dist"
   },
   "files": [
-    "typings/browser.d.ts"
+    "typings/index.d.ts",
+    "index.ts"
   ],
   "exclude": [
     "node_modules",
-    "dist",
-    "runtime",
-    "typings/main",
-    "typings/main.d.ts"
+    "dist"
   ]
 }
