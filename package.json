@@ -1,10 +1,10 @@
 {
   "name": "angular2-slider",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "lint": "tslint src/**/*.ts",
     "test": "tsc && karma start",
-    "postinstall": "typings install",
+    "typingsinstall": "typings install",
     "prepublish": "tsc",
     "tsc": "tsc",
     "typings": "typings"
