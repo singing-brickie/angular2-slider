@@ -1,5 +1,7 @@
+******* NOTE: THIS IS A WORK IN PROGRESS. ANY CONTRIBUTIONS ARE WELCOME ********
+
 # angular2-slider
-Slider directive implementation for Angular2 without any dependencies.
+Slider directive implementation for Angular2 without any dependencies, has ticks and accepts an array of values.
 
 Mobile friendly
 Fast
